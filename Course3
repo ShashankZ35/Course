@@ -9,3 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Name: Shashank Patil
+module name: Divide and conquer
+learnings: Each sub-problem is solved independently, and their solutions are combined to solve the original problem. This approach is efficient, especially for recursive algorithms like merge sort or quicksort.
